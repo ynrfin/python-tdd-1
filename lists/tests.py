@@ -1,7 +1,5 @@
 from django.test import TestCase
 
-
-
 class HomePageTest(TestCase):
 
     def test_home_page_returns_correct_html(self):
